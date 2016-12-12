@@ -12,7 +12,7 @@
     <form id="form1" runat="server">
         <div>
             <div class="calc-container">
-                <h2 style="text-align:center;">CALCULATOR</h2>
+                <h2 style="text-align:center;"><i>CALCULATOR</i></h2>
                 <div>
                     <asp:TextBox ID="tbFirstNumber" runat="server" Height="20px" Width="196px"></asp:TextBox>
                     <asp:TextBox ID="tbSecondNumber" runat="server" Height="20px" Width="196px"></asp:TextBox>
